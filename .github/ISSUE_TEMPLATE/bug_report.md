@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report a bug you encounter when using Colab
 title: "[BUG]"
 labels: bug
 assignees: ''
